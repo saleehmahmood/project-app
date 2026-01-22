@@ -1,0 +1,7 @@
+{
+  "name": "STACKZERO",
+  "description": "A comprehensive environmental monitoring and sustainability platform featuring real-time sensor dashboards, historical trend analysis, certification roadmaps, global incentive tracking, and carbon credit financial modeling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
